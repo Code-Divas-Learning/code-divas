@@ -1,0 +1,9 @@
+/*
+The CSS for Courses Page
+*/
+
+.sponsor_section {
+    z-index: 2;
+    position: relative;
+    margin-top: -300px;
+}

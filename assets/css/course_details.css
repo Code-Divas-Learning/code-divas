@@ -1,0 +1,57 @@
+/*
+The CSS for Course Details
+Colors: Primary: #7a56d0 | Secondary: #5be7c4 | Third: #f966ff | Forth: #4fc0e8 | Fifth: #F6f7f8
+*/
+.Color_Palette {
+    color: #7a56d0; /**/
+    color: #5be7c4;
+    color: #f966ff;
+    color: #4fc0e8;
+    color: #F6f7f8;
+    color: #9762f6;
+}
+
+/* ---- Tabs Nagivation */
+.details_nav > button {
+    font-size: 25px;
+}
+
+.about_course {
+    color: #7a56d0;
+    font-size: 18px;
+    font-weight: 500;
+    /* text-shadow: 1px 1px 1px #7a56d0; */
+}
+.about_course img {
+    width: 30px;
+    margin-bottom: 2px;
+}
+
+.session_info h5  {
+    color: #7a56d0;
+}
+
+.course_instructor p {
+    margin: 0;
+}
+
+.cart_info_list > li span small {
+    font-weight: 300;
+}
+
+.module_header {
+    margin: 0px 0px;
+    padding: 0px 0px;
+    color: #7a56d0;
+    font-size: 18px;
+}
+.module_header img {
+    width: 35px;
+}
+.session_info {
+    margin-top: -20px;
+}
+.session_info h4 {
+    margin: 0px;
+}
+
